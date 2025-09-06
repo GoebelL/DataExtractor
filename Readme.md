@@ -1,9 +1,6 @@
 ### Data Extractor
 This sample demonstrates a generic approach extracting data from large, heterogeneous structured text files into a Java Model (POJOs), including some format validation.
 
-- Name: L. Goebel
-- Datum: 24.11.2022
-
 #### Reqirements
 * Needs Java 17.x or later
 
@@ -14,3 +11,4 @@ Following 3rd party OSS is included:
     
 #### Howto Use
 Just run  ```demo.com.datatools.customdata.DemoApp``` in your IDE.
+
