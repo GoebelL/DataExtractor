@@ -1,10 +1,3 @@
-/*
- ******************************************************************************
-
- <p>Copyright FUJITSU LIMITED 2022
-
- <p>*****************************************************************************
-*/
 package org.sample.dataprocessing.validation;
 
 import com.opencsv.exceptions.CsvValidationException;
