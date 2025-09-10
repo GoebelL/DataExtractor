@@ -10,5 +10,6 @@ Following 3rd party OSS is included:
     - APACHE 2.0 License - https://www.apache.org/licenses/LICENSE-2.0.txt
     
 #### Howto Use
-Just run  ```demo.com.datatools.customdata.DemoApp``` in your IDE.
+Just run  ```org.sample.dataprocessing.demo.DemoApp``` in your IDE.
+
 
